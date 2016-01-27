@@ -1,0 +1,28 @@
+name: BSC 1892
+favicon: null
+layout_spectrum: 0.7193614020943642
+typography_spectrum: 0.1185961808077991
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.21956544346176088
+  lightness: 0.029493902577087283
+  saturation: 0.7489126301370561
+  rhythmicContrast: 0.6828978452831507
+purpose: []
